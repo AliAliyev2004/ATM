@@ -1,0 +1,14 @@
+C:\Users\ALI\source\repos\Atm1\Atm1\bin\Debug\net8.0\Atm1.exe
+C:\Users\ALI\source\repos\Atm1\Atm1\bin\Debug\net8.0\Atm1.deps.json
+C:\Users\ALI\source\repos\Atm1\Atm1\bin\Debug\net8.0\Atm1.runtimeconfig.json
+C:\Users\ALI\source\repos\Atm1\Atm1\bin\Debug\net8.0\Atm1.dll
+C:\Users\ALI\source\repos\Atm1\Atm1\bin\Debug\net8.0\Atm1.pdb
+C:\Users\ALI\source\repos\Atm1\Atm1\obj\Debug\net8.0\Atm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALI\source\repos\Atm1\Atm1\obj\Debug\net8.0\Atm1.AssemblyInfoInputs.cache
+C:\Users\ALI\source\repos\Atm1\Atm1\obj\Debug\net8.0\Atm1.AssemblyInfo.cs
+C:\Users\ALI\source\repos\Atm1\Atm1\obj\Debug\net8.0\Atm1.csproj.CoreCompileInputs.cache
+C:\Users\ALI\source\repos\Atm1\Atm1\obj\Debug\net8.0\Atm1.dll
+C:\Users\ALI\source\repos\Atm1\Atm1\obj\Debug\net8.0\refint\Atm1.dll
+C:\Users\ALI\source\repos\Atm1\Atm1\obj\Debug\net8.0\Atm1.pdb
+C:\Users\ALI\source\repos\Atm1\Atm1\obj\Debug\net8.0\Atm1.genruntimeconfig.cache
+C:\Users\ALI\source\repos\Atm1\Atm1\obj\Debug\net8.0\ref\Atm1.dll
